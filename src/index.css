@@ -1,0 +1,5 @@
+body{
+  height: 100%;
+  background-image: url('/Images/bg_img_1.jpg');
+  background-size: cover;
+}

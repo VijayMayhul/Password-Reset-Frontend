@@ -1,0 +1,66 @@
+
+/* Loading.css */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  width: 100vw; 
+  background-color: #000; 
+}
+
+/* NotFound.css */
+.pageNotFound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.pageNotFound .display-4 {
+  font-size: 6rem;
+  color: #343a40;
+}
+
+.pageNotFound .lead {
+  font-size: 1.5rem;
+  color: #6c757d;
+}
+
+/* NavBar.css */
+
+.navbar-nav .nav-content .nav-link{
+  color: #df1919 !important;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-content .active{
+  border-bottom: 3px solid blue !important;
+}
+
+#rpNavbarDropdown .img-profile{
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+#logoutBut {
+    position: absolute !important;
+    left: -100px !important;
+    top: 50px !important;
+    background-color: #000;
+}
+
+.rp-img-profile-div {
+  position: absolute;
+    right: 10px;
+    top: 8px;
+}
+
+.welcome-txt{
+  border: 5px double black;
+  border-radius: 8px;
+  word-break: normal;
+}
+
