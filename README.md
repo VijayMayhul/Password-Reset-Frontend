@@ -1,7 +1,7 @@
 
 # Password-Reset-Frontend
 
-This is the Password-Reset project, designed and developed by me as part of the Guvi-Zen class Task. With this application, you can create a personalized portfolio effortlessly by simply providing your information. It's user-friendly, highly customizable, and perfect for showcasing your professional or personal achievements.
+This is a sample Password-Reset project, designed and developed by me. It's Guvi-Zen class Roadmap session: Day-41 and Nodejs- Day -5: Authentication Task.
 
 ## Tech Stack
 
