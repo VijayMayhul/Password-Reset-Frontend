@@ -30,7 +30,6 @@
 }
 
 /* NavBar.css */
-
 .navbar-nav .nav-content .nav-link{
   color: #df1919 !important;
   font-weight: bold;
@@ -58,9 +57,11 @@
     top: 8px;
 }
 
+/* Home.css */
 .welcome-txt{
   border: 5px double black;
   border-radius: 8px;
   word-break: normal;
+  text-transform: capitalize;
 }
 

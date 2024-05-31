@@ -25,7 +25,6 @@ const Reset_Context_API = ({ children }) => {
   const notifySuccess = (message) => toast.success(message, toastStyle);
   const notifyError = (message) => toast.error(message, toastStyle);
   const notifyInfo = (message) => toast.info(message, toastStyle);
-//   const notifyWarn = (message) => toast.warn(message, toastStyle);
 
   const backendUrl = import.meta.env.VITE_BACKEND_URL; //getting backendUrl from .env file
   const navigate = useNavigate(); // Initialize navigate
