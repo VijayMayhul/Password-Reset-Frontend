@@ -12,10 +12,10 @@ import Reset_Context_API from "./Reset_Context_API";
 //imporing all child components for routing purpose
 import Register from "./Login_Components/Register";
 import ForgotPassword from "./Login_Components/ForgotPassword";
-import ResetPassword from "./Login_Components/ResetPassword";
 import Page_Not_Found from "./Main_Components/Page_Not_Found";
 import User from "./Main_Components/User";
 import Loading from "./Main_Components/Loading";
+import ResetPassword from "./Login_Components/ResetPassword";
 
 // Lazy loaded components
 const Home = lazy(() =>
